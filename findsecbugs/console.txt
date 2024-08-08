@@ -1,0 +1,9 @@
+C:\Users\uzair\Downloads\findsecbugs-cli-1.12.0\findsecbugs.bat  -progress -html -output report.htm -onlyAnalyze org.apache.commons.csv.* commons-csv-1.11.1-SNAPSHOT.jar
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
+Scanning archives (1 / 1)
+2 analysis passes to perform
+Pass 1: Analyzing classes (110 / 110) - 100% complete
+Pass 2: Analyzing classes (18 / 18) - 100% complete
+Done with analysis
