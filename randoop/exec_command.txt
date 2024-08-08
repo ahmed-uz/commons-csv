@@ -1,0 +1,2 @@
+java -classpath C:\Users\uzair\Documents\unisa\commons-csv\target\classes\;%RANDOOP_JAR% randoop.main.Main gentests --
+testjar=commons-csv-1.11.1-SNAPSHOT.jar
