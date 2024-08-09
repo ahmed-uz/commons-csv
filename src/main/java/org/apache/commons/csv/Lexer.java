@@ -401,7 +401,7 @@ final class Lexer implements Closeable {
                 token.type = Token.Type.TOKEN;
 
             }
-            if (token.type == Token.Type.EORECORD || token.type == Token.Type.EOF || token.type == Token.Type.TOKEN){
+            if (token.type == Token.Type.EORECORD || token.type == Token.Type.EOF || token.type == Token.Type.TOKEN) {
                 break;
             }
             // continue
